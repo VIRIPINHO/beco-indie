@@ -1,0 +1,54 @@
+body{
+    color: black;
+    background: url('img/backgroud.jpg') center center no-repeat fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family: sans-serif;
+    
+}
+
+ul{
+     display: flex;
+     justify-content: space-between;
+     list-style-type: none;
+     align-items: center;
+     padding: 16px;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+
+
+
+.center{
+    text-align: center;
+}
+
+nav a:hover{
+        color: green;
+}
+
+h1{
+    color:white;
+}
+
+p1{
+    color:white;
+}
+h2{
+    color:white;
+}
+
+p2{
+    color:white;
+}
+
+.container{
+    padding: 0px 50px;
+}
+h3{
+    color:white;
+}
